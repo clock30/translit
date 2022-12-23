@@ -1,0 +1,86 @@
+h1
+{
+    text-align: center;
+    margin: 20px auto 20px auto;
+    font-size: 24px;
+    color: black;
+    line-height: 34px;
+}
+
+form.translit_form
+{
+    display: block;
+    width: 80%;
+    margin: 0 auto 20px;
+    padding: 10px;
+}
+
+p.label_form
+{
+    display: block;
+    margin: 5px 0;
+    padding: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+textarea.translit_textarea
+{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+label.is_paragraph
+{
+    display: block;
+    width: 250px;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+input.is_paragraph
+{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin: 0px;
+}
+
+div.buttons
+{
+    margin: 20px 0;
+    text-align: center;
+}
+
+p.translit_result
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+pre
+{
+    display: block;
+    width: 100%;
+    overflow: auto;
+}
+
+a.home
+{
+    display: block;
+    width: 250px;
+    margin: 0px auto;
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+}
